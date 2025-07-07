@@ -1,0 +1,11 @@
+torch>=2.0
+torch-geometric>=2.0
+pandas
+numpy
+matplotlib
+h5py
+scikit-learn
+tqdm
+networkx
+jupyterlab
+notebook
